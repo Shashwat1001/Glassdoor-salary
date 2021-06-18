@@ -45,5 +45,5 @@ Column for simplified job title and Seniority
 Column for description length
 
 
-The did some EDA , model buidling 
+Then did some EDA , model buidling 
 
